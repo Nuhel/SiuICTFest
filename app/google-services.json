@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "985132371852",
+    "firebase_url": "https://siuictfest-81cc2.firebaseio.com",
+    "project_id": "siuictfest-81cc2",
+    "storage_bucket": "siuictfest-81cc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985132371852:android:c3255b9c701837b8",
+        "android_client_info": {
+          "package_name": "com.siu.siuictfest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985132371852-j1f266djq59lnabon4t9jskfdpov159c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2tkD6hByR8UjzdvLLtigjSjsvwkCyTmA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
